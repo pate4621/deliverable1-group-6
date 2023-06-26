@@ -12,7 +12,7 @@ import java.util.ArrayList;
  * given.
  *
  * @author rajvi patel
- * @author yash patel
+ * 
  */
 public abstract class Game {
 
